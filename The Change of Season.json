@@ -4,5 +4,14 @@
   "artist": "Kyungta (경타)",
   "author": "Min Hye Yoon and Nachyo",
   "cover": "https://meo.comick.pictures/4kboej.jpg",
-  "chapters": {}
+  "chapters": {
+    "5": {
+      "title": "Chapter 5 (reupload)",
+      "volume": "",
+      "last_updated": "1701936576",
+      "groups": {
+        "fabulous_seal": "/proxy/api/imgur/chapter/K9o6EzZ"
+      }
+    }
+  }
 }
