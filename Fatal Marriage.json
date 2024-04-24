@@ -30,7 +30,7 @@
       }
     },
     "8": {
-      "title": "Chapter 8 - You Haven't Changed",
+      "title": "Chapter 8 - You Haven't Changed At All",
       "volume": "",
       "last_updated": "1712676436",
       "groups": {
@@ -38,7 +38,7 @@
       }
     },
     "9": {
-      "title": "Chapter 9 - The Only Condition",
+      "title": "Chapter 9 - Her Only Condition",
       "volume": "",
       "last_updated": "1713026043",
       "groups": {
@@ -83,6 +83,14 @@
       "last_updated": "1713800398",
       "groups": {
         "": "/proxy/api/imgur/chapter/h6LdzJe"
+      }
+    },
+    "15": {
+      "title": "Chapter 15 - Meddlesome",
+      "volume": "",
+      "last_updated": "1713977942",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AyGsvqO"
       }
     }
   }
